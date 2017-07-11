@@ -1,0 +1,2 @@
+<h1><%= link "Show All Users", to: user_path(@conn, :index) %></h1>
+<%= render "user.html", user: @user %>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<queryresult success='true'
+    error='false'
+    numpods='6'
+    datatypes='Math'
+    timedout=''
+    timedoutpods=''
+    timing='1.699'
+    parsetiming='0.107'
+    parsetimedout='false'
+    recalculate='http://www4c.wolframalpha.com/api/v2/recalc.jsp?id=MSPa14521882b3b88e49h580000568973205h422cfg5517769275226475668'
+    id='MSPa14621882b3b88e49h5800000f606a6e4fbf5cad'
+    host='http://www4c.wolframalpha.com'
+    server='49'
+    related='http://www4c.wolframalpha.com/api/v2/relatedQueries.jsp?id=MSPa14721882b3b88e49h58000051ec1h288e99a1ia5517769275226475668'
+    version='2.6'>
